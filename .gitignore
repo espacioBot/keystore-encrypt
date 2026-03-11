@@ -1,0 +1,5 @@
+.idea
+logs/
+go.sum
+CLAUDE.md
+.claude
