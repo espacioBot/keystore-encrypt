@@ -3,3 +3,5 @@ logs/
 go.sum
 CLAUDE.md
 .claude
+build.sh
+dist/*
